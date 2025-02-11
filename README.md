@@ -6,3 +6,4 @@
 - [LatentView - A Complete Guide to Marketing Mix Modeling](https://www.latentview.com/marketing-mix-modeling/)
 - [PyMC Marketing - Introduction to Media Mix Modeling](https://www.pymc-marketing.io/en/latest/guide/mmm/mmm_intro.html)
 - [Recast - Shifting from Legacy to Modern Marketing Mix Modeling](https://getrecast.com/modern-media-mix-modeling/)
+- [Towards Data Science - Modeling Marketing Mix using PyMC3](https://towardsdatascience.com/modeling-marketing-mix-using-pymc3-ba18dd9e6e68/)
