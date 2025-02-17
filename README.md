@@ -8,3 +8,4 @@
 - [Recast - Shifting from Legacy to Modern Marketing Mix Modeling](https://getrecast.com/modern-media-mix-modeling/)
 - [Towards Data Science - Modeling Marketing Mix using PyMC3](https://towardsdatascience.com/modeling-marketing-mix-using-pymc3-ba18dd9e6e68/)
 - [Invoca - Media Mix Modeling (MMM): The Complete Guide for 2025](https://www.invoca.com/blog/media-mix-modeling)
+- [Mass Analytics - Your Comprehensive Marketing Mix Modeling Guide](https://mass-analytics.com/marketing-mix-modeling-guide)
